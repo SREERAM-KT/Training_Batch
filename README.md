@@ -1,6 +1,6 @@
 # Virtusa_Practise
 
-Definitions:
+## Definitions:
 
 Inheritance: Acquiring properties of base/parent class by sub/child class
 
