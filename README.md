@@ -32,7 +32,7 @@ Object: Real world entity with properties and behaviours
 
 Class: Blueprint for object
 
-Data Encapsulation: Binding data with functions.
+Data Encapsulation: Binding data with functions using objects
 
 Access specifiers: specifies the accessibilty of a class/method/data within the program
    - Public: accessible to all classes
