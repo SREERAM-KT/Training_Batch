@@ -1,21 +1,21 @@
 interface A{
-    void print();
+    void add();
 }
 interface B{
-    void show();
+    void sub();
 }
 class C implements A,B{
-    public void print(){
-        System.out.println("print");
+    public void add(){
+        System.out.println("add");
     }
-    public void show(){
-        System.out.println("show");
+    public void sub(){
+        System.out.println("sub");
     }
 }
 public class MultipleInheritance {
     public static void main(String[] args) {
         C c=new C();
-        c.show();
-        c.print();
+        c.sub();
+        c.add();
     }
 }
