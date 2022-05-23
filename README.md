@@ -27,13 +27,13 @@ Class: Blueprint for object
 Data Encapsulation: Binding data with functions.
 
 Access specifiers: specifies the accessibilty of a class/method/data within the program
-    - Public: accessible to all classes
-    - Private: accessible within the class
-    - Protected: accessible within the class and child class
+   - Public: accessible to all classes
+   - Private: accessible within the class
+   - Protected: accessible within the class and child class
 
 
 
-OOps:
+Oops:
    - object
    - class
    - inheritance
