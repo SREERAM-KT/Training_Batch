@@ -2,6 +2,14 @@
 
 ## Definitions:
 
+Oops:
+   - object
+   - class
+   - inheritance
+   - polymorphism
+   - encapsulation
+   - abstraction
+
 Inheritance: Acquiring properties of base/parent class by sub/child class
 
 Constructor: Initialising values to the object.It's name is same as class name and does not have return type
@@ -32,11 +40,3 @@ Access specifiers: specifies the accessibilty of a class/method/data within the 
    - Protected: accessible within the class and child class
 
 
-
-Oops:
-   - object
-   - class
-   - inheritance
-   - polymorphism
-   - encapsulation
-   - abstraction
