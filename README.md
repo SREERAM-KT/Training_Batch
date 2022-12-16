@@ -1,4 +1,4 @@
-# Virtusa_Practise
+# Practise
 
 ## Definitions:
 
